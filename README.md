@@ -1,7 +1,7 @@
 
 # Interactive Quick Quiz  
 ---
-Welcome to **Quick Quiz**, a simple quiz game that tests your knowledge on various topics. The game provides multiple-choice questions with four possible answers. At the end of the game, players can save their scores and view a list of high scores.
+**Welcome to **Quick Quiz**, a simple quiz game that tests your knowledge on various topics. The game provides multiple-choice questions with four possible answers. At the end of the game, players can save their scores and view a list of high scores.**
 ---
 
 **Company**: CODETECH IT SOLUTIONS  
