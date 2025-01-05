@@ -26,15 +26,15 @@ Welcome to **Quick Quiz**, a simple quiz game that tests your knowledge on vario
 
 ## Screenshots
 
-![Home Page]
+**[Home Page]**
 
 ![Screenshot 2025-01-05 080956](https://github.com/user-attachments/assets/5d639d09-d5ad-41db-baf4-96e6380642a7) 
 
-![Game Page] 
+**[Game Page]** 
 
 ![Screenshot 2025-01-05 094131](https://github.com/user-attachments/assets/254403c7-c59d-4fb9-9f9f-38c477522c28)  
 
-![End Screen] 
+**[End Screen]** 
 
 ![Screenshot 2025-01-05 094154](https://github.com/user-attachments/assets/db0f574e-d204-449d-8d9a-f33cc693ea77)
 
