@@ -1,6 +1,7 @@
 
-# Interactive Quick Quiz 
-
+# Interactive Quick Quiz  
+Welcome to **Quick Quiz**, a simple quiz game that tests your knowledge on various topics. The game provides multiple-choice questions with four possible answers. At the end of the game, players can save their scores and view a list of high scores.
+---
 
 **Company**: CODETECH IT SOLUTIONS  
 
@@ -13,10 +14,10 @@
 **Batch Duration**: Dec 17th 2024 to Jan 17th, 2025 
 
 **Mentor Name** : NEELA SANTHOSH
+--- 
 
 
 
-Welcome to **Quick Quiz**, a simple quiz game that tests your knowledge on various topics. The game provides multiple-choice questions with four possible answers. At the end of the game, players can save their scores and view a list of high scores.
 
 ## Features
 
