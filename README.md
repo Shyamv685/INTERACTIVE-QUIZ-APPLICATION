@@ -14,7 +14,7 @@
 
 **Batch Duration**: Dec 17th 2024 to Jan 17th, 2025 
 
-**Mentor Name** : NEELA SANTHOSH
+**Mentor Name**: NEELA SANTHOSH
 --- 
 
 
